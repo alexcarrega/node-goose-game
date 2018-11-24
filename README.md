@@ -8,9 +8,9 @@ The Goose Game Kata
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository and enter to the created directory
 2. run
-   ```sh
+   ```bash
    npm install
    ```
 
