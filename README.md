@@ -2,9 +2,15 @@
 
 The Goose Game Kata
 
+## Description
+
+Goose game is a game where two or more players move pieces around a track by rolling a die. The aim of the game is to reach square number sixty-three before any of the other players and avoid obstacles. ([wikipedia](https://en.wikipedia.org/wiki/Game_of_the_Goose))
+
+[Read more](GooseGame.md)
+
 ## Requirements
 
-1. node-js (follows the instructions at https://nodejs.org)
+1. **Node.js** (follows the instructions at https://nodejs.org)
 
 ## Installation
 
@@ -13,14 +19,14 @@ The Goose Game Kata
 ### Linux
 
 ```console
-for@bar:~$ git clone https://github.com/alexcarrega/GooseGame
+for@bar:~$ git clone https://github.com/alexcarrega/GooseGame.git
 for@bar:~$ cd GooseGame
 ```
 
 ### Windows
 
 ```console
-c:\foo\bar> git clone https://github.com/alexcarrega/GooseGame
+c:\foo\bar> git clone https://github.com/alexcarrega/GooseGame.git
 c:\foo\bar> cd GooseGame
 ```
 

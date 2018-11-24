@@ -1,19 +1,34 @@
 {
-  "name": "goose-game",
-  "version": "1.0.0",
-  "description": "GooseGame",
-  "main": "src/main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "goose",
-    "game"
-  ],
-  "author": "Alex Carrega",
-  "license": "MIT",
-  "dependencies": {
-    "console2": "^2.3.6",
-    "vorpal": "^1.12.0"
-  }
+   "name": "goose-game",
+   "version": "1.0.0",
+   "description": "The Goose Game Kata is a game where two or more players move pieces around a track by rolling a die. The aim of the game is to reach square number sixty-three before any of the other players and avoid obstacles.",
+   "homepage": "https://github.com/alexcarrega/GooseGame#Readme",
+   "main": "src/main.js",
+   "bugs": {
+      "url": "https://github.com/alexcarrega/GooseGame/issues",
+      "email": "contact@alexcarrega.com"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "goose",
+      "game",
+      "node"
+   ],
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/alexcarrega/GooseGame.git"
+   },
+   "author": {
+      "name": "Alex Carrega",
+      "email": "contact@alexcarrega.com",
+      "url": "http://www.alexcarrega.com"
+   },
+   "license": "MIT",
+   "dependencies": {
+      "chalk": "^2.4.1",
+      "console2": "^2.3.6",
+      "vorpal": "^1.12.0"
+   }
 }
