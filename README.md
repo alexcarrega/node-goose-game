@@ -64,6 +64,6 @@ for@bar:~\goose-game$ ./goose-game.sh
 c:\for\bar\goose-game> goose-game
 ```
 
-### All Platform
+### All Platforms
 
 _Digit_ **help** for available **commands**
