@@ -21,7 +21,7 @@ for@bar:~$ cd GooseGame
 
 ```console
 c:\foo\bar> git clone https://github.com/alexcarrega/GooseGame
-c:\foo\bar>  cd GooseGame
+c:\foo\bar> cd GooseGame
 ```
 
 2. Execute
