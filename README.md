@@ -4,7 +4,7 @@ The Goose Game Kata
 
 ## Requirements
 
-1. node-js
+1. node-js (follows the instructions at https://nodejs.org)
 
 ## Installation
 
