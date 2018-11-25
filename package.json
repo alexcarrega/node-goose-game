@@ -2,10 +2,10 @@
    "name": "goose-game",
    "version": "1.0.0",
    "description": "The Goose Game Kata is a game where two or more players move pieces around a track by rolling a die. The aim of the game is to reach square number sixty-three before any of the other players and avoid obstacles.",
-   "homepage": "https://github.com/alexcarrega/GooseGame#Readme",
+   "homepage": "https://github.com/alexcarrega/node-goose-game#Readme",
    "main": "src/main.js",
    "bugs": {
-      "url": "https://github.com/alexcarrega/GooseGame/issues",
+      "url": "https://github.com/alexcarrega/node-goose-game/issues",
       "email": "contact@alexcarrega.com"
    },
    "scripts": {
@@ -19,7 +19,7 @@
    ],
    "repository": {
       "type": "git",
-      "url": "https://github.com/alexcarrega/GooseGame.git"
+      "url": "https://github.com/alexcarrega/node-goose-game.git"
    },
    "author": {
       "name": "Alex Carrega",
