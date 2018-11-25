@@ -10,7 +10,7 @@ Goose game is a game where two or more players move pieces around a track by rol
 
 ## Requirements
 
-1. **Node.js** (follows the instructions at [https://nodejs.org](https://nodejs.org){:target="_blank"}).
+1. **Node.js** (follows the instructions at [https://nodejs.org](https://nodejs.org)).
 
 ## Installation
 
