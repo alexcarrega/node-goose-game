@@ -29,7 +29,6 @@
    "license": "MIT",
    "dependencies": {
       "chalk": "^2.4.1",
-      "console2": "^2.3.6",
       "vorpal": "^1.12.0"
    }
 }
